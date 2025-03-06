@@ -148,7 +148,7 @@
         "while_the_maturity_is_fixed": "Obwohl die Laufzeit festgelegt ist, können Sie den Liquidationskurs und den Sicherheitenbetrag später anpassen, solange dieser den geprägten Betrag deckt. Bei vorzeitiger Rückzahlung wird kein Zins erstattet.",
         "starting_liquidation_price": "Startliquidationskurs",
         "liquidation_price_at_expiration": "Liquidationskurs bei Ablauf",
-        "add_new_token": "Neues Token hinzufügen",
+        "add_new_token": "Neuen Token hinzufügen",
         "error": {
             "could_not_obtain_token_data": "Tokendaten konnten nicht abgerufen werden.",
             "token_decimals_should_be_less_than_24": "Die Dezimalstellen des Tokens sollten kleiner als 24 sein.",
